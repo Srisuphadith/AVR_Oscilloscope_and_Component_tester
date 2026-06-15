@@ -48,10 +48,6 @@ The repository also includes an ATmega328P pin reference image:
 
 ![ATmega328P pinout](1_atmega328pPin.png)
 
-Reference image:
-
-![ATmega328P-PU microcontroller](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ATMEGA328P-PU.jpg/640px-ATMEGA328P-PU.jpg)
-
 Image attribution: [ATMEGA328P-PU.jpg](https://commons.wikimedia.org/wiki/File:ATMEGA328P-PU.jpg) by [oomlout](https://www.flickr.com/people/oomlout/) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
 
 ## Repository Structure
